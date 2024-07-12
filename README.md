@@ -36,8 +36,14 @@ In this project, I used Github Desktop as the connector. The advantage of this a
 
 1. Clone Repository
 
-![Screenshot%202024-07-06%20040114.png](./readme-images)
+![img2.png](./readme-images/img2.png)
 
+2. And content and push
+
+![img3.png](./readme-images/img3.png)
+
+3. Check in github
+![img4.png](./readme-images/img4.png)
 
 ## DEPLOYMENT  ⚙️
 
@@ -46,8 +52,6 @@ In this project, I used Github Desktop as the connector. The advantage of this a
 2. Click Log-in
 
 3. Log-in with GitHub
-   
-![Screenshot%202024-07-06%20040114.png](./asset/Screenshot%202024-07-06%20040114.png)
 
 ### Deploy on Vercel from GitHub
 
