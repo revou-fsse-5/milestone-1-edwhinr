@@ -60,10 +60,7 @@ In this project, I used Github Desktop as the connector. The advantage of this a
 2. Click deploy with GitHub, and wait for authorizing 
 
 3. Choose the repository
-   
-![Screenshot%202024-07-06%20040928.png](./asset/Screenshot%202024-07-06%20040928.png)
 
-   
 4. Scroll down, Deploy Site
    
 ### Auto Deploy
@@ -76,13 +73,17 @@ Once you deploy the site, it will be automatically deployed when you push someth
             
 2. go to Site overview -> Settings ->  Domain
             
-![Screenshot%202024-07-06%20042026.png](./asset/Screenshot%202024-07-06%20042026.png)
+![img5.png](./readme-images/img5.png)
          
 4. type your domain name, verify click Add domain, choice the first, and click add.
             
-![Screenshot%202024-07-06%20042451.png](./asset/Screenshot%202024-07-06%20042451.png)
+![img6.png](./readme-images/img6.png)
          
 5. Wait for awhile and your site is ready to be used.
+
+## Link Deployment
+
+### https://www.seasonnclub.site/
 
 
 Happy browsing!
